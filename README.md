@@ -26,5 +26,5 @@ B : the lower triangular part of A (with the diagonal)\
 C : the upper triangular part of A (without the diagonal)\
 B_1 : the inverse matrix of B
 
-# finally
+# Epsilon
 epsilon could be calculated by finding the norm of the vector X(i+1) - X(i)
