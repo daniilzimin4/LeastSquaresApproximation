@@ -551,8 +551,6 @@ void solve() {
         cout << "e: " << epstmp << '\n';
         cout << "x(" << id++ << "):\n" << Xnew;
     }
-
-
 }
 
 int main() {
